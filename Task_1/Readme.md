@@ -1,4 +1,4 @@
-# Sales Data Analysis
+# <p align="center"> Sales Data Analysis </p> 
 ## Overview
 A comprehensive analysis of sales data using various types of visualizations. The dataset, retail_sales_dataset.csv, includes information on transactions, including transaction IDs, dates, customer IDs, genders, ages, product categories, quantities, prices per unit, and total amounts.
 
