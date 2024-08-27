@@ -16,5 +16,5 @@ For a detailed analysis and visualizations, please refer to the attached Jupyter
 
 For any inquiries or feedback regarding this project, please contact:
 
-LinkedIn: https://www.linkedin.com/in/syed-abdul-wasih/<br>
+LinkedIn: <a href="https://www.linkedin.com/in/syed-abdul-wasih/">Syed Abdul Wasih H</a><br>
 Email: abdul.wasih03@gmail.com
