@@ -44,6 +44,8 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 ```
+![1](https://github.com/user-attachments/assets/30f2fd69-4a07-48e9-9073-d5952a5b97f3)
+
 ### 2. Sales by Product Category
 Type: Bar Chart<br>
 Description: Shows total sales for each product category.<br>
@@ -63,6 +65,7 @@ plt.ylabel('Product Category')
 plt.tight_layout()
 plt.show()
 ```
+![2](https://github.com/user-attachments/assets/52457341-084a-446b-a4fc-e64e6f4f8ec5)
 
 ### 3. Sales by Gender
 Type: Pie Chart<br>
@@ -78,6 +81,8 @@ plt.pie(sales_by_gender['Total Amount'], labels=sales_by_gender['Gender'], autop
 plt.title('Sales by Gender')
 plt.show()
 ```
+![3](https://github.com/user-attachments/assets/1fe6daa0-3a3b-4d59-9e22-305da6b0448c)
+
 ### 4. Sales by Age
 Type: Bar Chart<br>
 Description: Displays total sales for each age group.<br>
@@ -96,6 +101,7 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+![4](https://github.com/user-attachments/assets/5bdc981f-25bb-477e-91f2-18df5ff33b2d)
 
 ### 5. Box Plot (Total Amount by Product Category)
 Type: Box Plot<br>
@@ -112,6 +118,7 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 ```
+![5](https://github.com/user-attachments/assets/e510111f-028e-4b3d-be65-b04a9319285b)
 
 ### 6. Scatter Plot (Total Amount vs. Quantity)
 Type: Scatter Plot<br>
@@ -129,6 +136,8 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 ```
+![6](https://github.com/user-attachments/assets/1386e140-de47-4f30-86b6-7027e1bc95f5)
+
 ### 7. Violin Plot (Total Amount by Age)
 Type: Violin Plot<br>
 Description: Illustrates the distribution of total amounts across different age groups.<br>
@@ -145,6 +154,7 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 ```
+![7](https://github.com/user-attachments/assets/ff37bf76-321b-4102-815f-a4fea5a7de2b)
 
 ### 8. Heatmap of Sales by Product Category and Gender
 Type: Heatmap<br>
@@ -165,6 +175,7 @@ plt.ylabel('Product Category')
 plt.tight_layout()
 plt.show()
 ```
+![8](https://github.com/user-attachments/assets/4853a1c7-e03b-44d2-b81a-2278f4593fb8)
 
 ## Result:
 Thus, to perform Sales data analysis of a commercial store is successful.
